@@ -1,0 +1,451 @@
+[
+  {
+    "id": "CC0116",
+    "date": "2024-10-06",
+    "status": "pending",
+    "customer": {
+      "name": "Snack Attack Delights",
+      "email": "hello@snackattack.com"
+    },
+    "paymentTerms": 7,
+    "items": [
+      {
+        "title": "Branding package",
+        "description": "Branding package for Snack Attack Delights.",
+        "quantity": 1,
+        "unitPrice": 975.0,
+        "total": 975.0
+      }
+    ],
+    "total": 975.0
+  },
+  {
+    "id": "CC0115",
+    "date": "2024-10-03",
+    "status": "pending",
+    "customer": {
+      "name": "Pawsitively Pet Care",
+      "email": "mike@pawsitivelypetcare.com"
+    },
+    "paymentTerms": 30,
+    "items": [
+      {
+        "title": "Web design",
+        "description": "Web design for Pawsitively Pet Care.",
+        "quantity": 1,
+        "unitPrice": 2500.0,
+        "total": 2500.0
+      },
+      {
+        "title": "Logo concept",
+        "description": "2 logo concepts for Pawsitively Pet Care.",
+        "quantity": 2,
+        "unitPrice": 125.0,
+        "total": 250.0
+      },
+      {
+        "title": "Illustrations",
+        "description": "Illustrations for Pawsitively Pet Care.",
+        "quantity": 3,
+        "unitPrice": 150.0,
+        "total": 450.0
+      }
+    ],
+    "total": 3200.0
+  },
+  {
+    "id": "CC0114",
+    "date": "2024-10-02",
+    "status": "paid",
+    "customer": {
+      "name": "Brews & Bubbles Cafe",
+      "email": "hello@brewsandbubbles.com"
+    },
+    "paymentTerms": 1,
+    "items": [
+      {
+        "title": "Brand photography",
+        "description": "Brand photography for Brews & Bubbles Cafe.",
+        "quantity": 1,
+        "unitPrice": 499.0,
+        "total": 499.0
+      }
+    ],
+    "total": 499.0
+  },
+  {
+    "id": "CC0113",
+    "date": "2024-09-27",
+    "status": "pending",
+    "customer": {
+      "name": "Stellar Space Agency",
+      "email": "info@stellarspaceagency.com"
+    },
+    "paymentTerms": 1,
+    "items": [
+      {
+        "title": "Web design",
+        "description": "Web design for Stellar Space Agency.",
+        "quantity": 1,
+        "unitPrice": 3000.0,
+        "total": 3000.0
+      }
+    ],
+    "total": 3000.0
+  },
+  {
+    "id": "CC0112",
+    "date": "2024-09-15",
+    "status": "paid",
+    "customer": {
+      "name": "Sizzle BBQ Catering",
+      "email": "hello@sizzlebbq.com"
+    },
+    "paymentTerms": 30,
+    "items": [
+      {
+        "title": "Logo concept",
+        "description": "2 logo concepts for Sizzle BBQ Catering.",
+        "quantity": 2,
+        "unitPrice": 125.0,
+        "total": 250.0
+      },
+      {
+        "title": "Brand photography",
+        "description": "Brand photography for Sizzle BBQ Catering.",
+        "quantity": 1,
+        "unitPrice": 499.0,
+        "total": 499.0
+      }
+    ],
+    "total": 749.0
+  },
+  {
+    "id": "CC0111",
+    "date": "2024-09-03",
+    "status": "pending",
+    "customer": {
+      "name": "TechTastic Innovations",
+      "email": "info@techtastic.com"
+    },
+    "paymentTerms": 90,
+    "items": [
+      {
+        "title": "Web design",
+        "description": "Web design for TechTastic Innovations.",
+        "quantity": 1,
+        "unitPrice": 2500.0,
+        "total": 2500.0
+      }
+    ],
+    "total": 2500.0
+  },
+  {
+    "id": "CC0110",
+    "date": "2024-09-01",
+    "status": "paid",
+    "customer": {
+      "name": "Jumpstart Fitness Studio",
+      "email": "hello@jumpstartfitness.com"
+    },
+    "paymentTerms": 7,
+    "items": [
+      {
+        "title": "Branding package",
+        "description": "Branding package for Jumpstart Fitness Studio.",
+        "quantity": 1,
+        "unitPrice": 850.0,
+        "total": 850.0
+      },
+      {
+        "title": "Brand photography",
+        "description": "Brand photography for Jumpstart Fitness Studio.",
+        "quantity": 1,
+        "unitPrice": 499.0,
+        "total": 499.0
+      }
+    ],
+    "total": 1349.0
+  },
+  {
+    "id": "CC0109",
+    "date": "2024-08-23",
+    "status": "paid",
+    "customer": {
+      "name": "Nike Woman",
+      "email": "hello@nikewoman.com"
+    },
+    "paymentTerms": 30,
+    "items": [
+      {
+        "title": "Marketing media",
+        "description": "Marketing media for Nike Woman.",
+        "quantity": 2,
+        "unitPrice": 650.0,
+        "total": 1300.0
+      }
+    ],
+    "total": 1300.0
+  },
+  {
+    "id": "CC0108",
+    "date": "2024-08-16",
+    "status": "pending",
+    "customer": {
+      "name": "Millie's Cookies",
+      "email": "hello@milliescookies.com"
+    },
+    "paymentTerms": 90,
+    "items": [
+      {
+        "title": "Web design",
+        "description": "Web design for Millie's Cookies.",
+        "quantity": 1,
+        "unitPrice": 4500.0,
+        "total": 4500.0
+      }
+    ],
+    "total": 4500.0
+  },
+  {
+    "id": "CC0107",
+    "date": "2024-07-29",
+    "status": "paid",
+    "customer": {
+      "name": "Dough-Re-Mi",
+      "email": "hannah@doughremi.com"
+    },
+    "paymentTerms": 1,
+    "items": [
+      {
+        "title": "Web design",
+        "description": "E-commerce site design and build for Dough-Re-Mi bakery.",
+        "quantity": 1,
+        "unitPrice": 3000.0,
+        "total": 3000.0
+      },
+      {
+        "title": "Logo concept",
+        "description": "Logo concept for Dough-Re-Mi Bakery.",
+        "quantity": 3,
+        "unitPrice": 125.0,
+        "total": 375.0
+      }
+    ],
+    "total": 3375.0
+  },
+  {
+    "id": "CC0106",
+    "date": "2024-07-07",
+    "status": "paid",
+    "customer": {
+      "name": "Rainbow Diaries",
+      "email": "hello@rainbowdiaries.com"
+    },
+    "paymentTerms": 30,
+    "items": [
+      {
+        "title": "Diary design",
+        "description": "Diary design for Rainbow Diaries.",
+        "quantity": 2,
+        "unitPrice": 350.0,
+        "total": 700.0
+      }
+    ],
+    "total": 700.0
+  },
+  {
+    "id": "CC0105",
+    "date": "2024-06-25",
+    "status": "pending",
+    "customer": {
+      "name": "Cool Earth",
+      "email": "hello@coolearth.com"
+    },
+    "paymentTerms": 7,
+    "items": [
+      {
+        "title": "Logo concept",
+        "description": "Logo concept for Cool Earth.",
+        "quantity": 4,
+        "unitPrice": 125.0,
+        "total": 500.0
+      },
+      {
+        "title": "Marketing media",
+        "description": "Marketing media for Cool Earth.",
+        "quantity": 1,
+        "unitPrice": 250.0,
+        "total": 250.0
+      }
+    ],
+    "total": 750.0
+  },
+  {
+    "id": "CC0104",
+    "date": "2024-06-21",
+    "status": "pending",
+    "customer": {
+      "name": "Crazy Cards Ltd",
+      "email": "hello@crazycards.com"
+    },
+    "paymentTerms": 90,
+    "items": [
+      {
+        "title": "Brand photography",
+        "description": "Brand photography for Crazy Cards Ltd",
+        "quantity": 1,
+        "unitPrice": 499.0,
+        "total": 499.0
+      }
+    ],
+    "total": 499.0
+  },
+  {
+    "id": "CC0103",
+    "date": "2024-06-14",
+    "status": "pending",
+    "customer": {
+      "name": "Mountain Yoga",
+      "email": "info@mountainyoga.com"
+    },
+    "paymentTerms": 1,
+    "items": [
+      {
+        "title": "Online shop design",
+        "description": "Online shop design for Mountain Yoga.",
+        "quantity": 1,
+        "unitPrice": 6500.0,
+        "total": 6500.0
+      }
+    ],
+    "total": 6500.0
+  },
+  {
+    "id": "CC0102",
+    "date": "2024-06-14",
+    "status": "paid",
+    "customer": {
+      "name": "Dino Clothing Co",
+      "email": "hello@dinoclothing.com"
+    },
+    "paymentTerms": 30,
+    "items": [
+      {
+        "title": "Illustrations",
+        "description": "Illustrations for Dino Clothing Co.",
+        "quantity": 5,
+        "unitPrice": 250.0,
+        "total": 1250.0
+      }
+    ],
+    "total": 1250.0
+  },
+  {
+    "id": "CC0101",
+    "date": "2024-06-14",
+    "status": "pending",
+    "customer": {
+      "name": "Fresh Floral Boutique",
+      "email": "hello@freshfloral.com"
+    },
+    "paymentTerms": 30,
+    "items": [
+      {
+        "title": "Marketing media",
+        "description": "Marketing media for Fresh Floral Boutique.",
+        "quantity": 2,
+        "unitPrice": 25.5,
+        "total": 51.0
+      }
+    ],
+    "total": 51.0
+  },
+  {
+    "id": "CC0100",
+    "date": "2024-06-14",
+    "status": "paid",
+    "customer": {
+      "name": "Adventure Tours",
+      "email": "hello@adventuretours.com"
+    },
+    "paymentTerms": 7,
+    "items": [
+      {
+        "title": "Booking site design",
+        "description": "Booking site design for Adventure Tours.",
+        "quantity": 1,
+        "unitPrice": 5000.0,
+        "total": 5000.0
+      },
+      {
+        "title": "Brand photography",
+        "description": "Brand photography for Adventure Tours.",
+        "quantity": 1,
+        "unitPrice": 499.0,
+        "total": 499.0
+      }
+    ],
+    "total": 5499.0
+  },
+  {
+    "id": "CC0099",
+    "date": "2024-06-14",
+    "status": "paid",
+    "customer": {
+      "name": "Wellness Retreats",
+      "email": "hello@wellnessretreats.com"
+    },
+    "paymentTerms": 1,
+    "items": [
+      {
+        "title": "Booking site design for Wellness Retreats.",
+        "description": "Booking site design",
+        "quantity": 1,
+        "unitPrice": 5000.0,
+        "total": 5000.0
+      }
+    ],
+    "total": 5000.0
+  },
+  {
+    "id": "CC0098",
+    "date": "2024-06-14",
+    "status": "paid",
+    "customer": {
+      "name": "Harmony Music School",
+      "email": "hello@harmonyschool.com"
+    },
+    "paymentTerms": 7,
+    "items": [
+      {
+        "title": "Branding package",
+        "description": "Branding package for Harmony Music School.",
+        "quantity": 1,
+        "unitPrice": 1050.0,
+        "total": 1050.0
+      }
+    ],
+    "total": 1050.0
+  },
+  {
+    "id": "CC0097",
+    "date": "2024-06-14",
+    "status": "paid",
+    "customer": {
+      "name": "Nosh Food Truck",
+      "email": "hello@noshfoodtruck.com"
+    },
+    "paymentTerms": 1,
+    "items": [
+      {
+        "title": "Marketing media",
+        "description": "Marketing media for Nosh Food Truck.",
+        "quantity": 2,
+        "unitPrice": 250.0,
+        "total": 500.0
+      }
+    ],
+    "total": 500.0
+  }
+]
